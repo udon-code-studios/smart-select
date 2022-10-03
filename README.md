@@ -2,7 +2,7 @@
 
 ML-powered League of Legends Champion Selector
 
-<img alt="neural-network" src="https://i.imgur.com/z8dYqpV.png" width="150" />
+<img alt="neural-network" src="https://i.imgur.com/z8dYqpV.png" width="200" />
 
 ## Vision
 
